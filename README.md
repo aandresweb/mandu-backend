@@ -16,11 +16,11 @@
 ## Endpoints
 
 - GET       | api/divisiones       
--                    
+                
 - POST      | api/divisiones     
--                      
+                    
 - GET|HEAD  | api/divisiones/{divisione}    
--              
+           
 - PUT|PATCH | api/divisiones/{divisione}    
--           
+        
 - DELETE    | api/divisiones/{divisione}
